@@ -1,10 +1,8 @@
 /*
- * Project: Dtest
+ * Project: 
  * 
  * File Created at 2018年7月5日
  * 
- * Copyright 2016 CMCC Corporation Limited.
- * All rights reserved.
  *
  * This software is the confidential and proprietary information of
  * ZYHY Company. ("Confidential Information").  You shall not
